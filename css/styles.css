@@ -224,7 +224,7 @@ address {
 
 .button-container {
     display: flex;
-    width: calc(238px + 106px);
+    width: 238px;
     flex-direction: column;
     gap: 14px;
 }
